@@ -7,11 +7,9 @@
 Hi there 👋
 
 I'm Annika and a passionate frontend developer. 
-I'm currently gaining my first work experience at [Douglas](https://corporate.douglas.de/). <br>
+I'm currently gaining my first work experience at [ecostage](https://about.stagedates.com/). <br>
 In my free time, I love to let my creativity run wild and develop my own projects with a focus on design. 🤯
 
-- 🔭 I’m currently working on this README page.
-- 🌱 I’m currently learning Figma to create beautiful and interactive mockups.
 - 💬 Ask me about everything you like 😛
 - 📫 How to reach me: annikafuhge96@gmail.com
 - ⚡ Fun fact: I'm a huge Harry Potter fan, so I got the nickname Annie Fudge.
@@ -27,8 +25,10 @@ In my free time, I love to let my creativity run wild and develop my own project
 
 ### Frameworks
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%23DD0031.svg?style=for-the-badge&color=%2342b883)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-%23DD0031.svg?style=for-the-badge&color=%2300B4FF)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
@@ -62,6 +62,7 @@ In my free time, I love to let my creativity run wild and develop my own project
 
 ## ❤️ Hobbies
 - 💃 Dancing
+- 🧶 Crocheting
 - 🎸 Playing ukulele
 - 👩‍💻 Coding
 - 🍻 Meeting friends
