@@ -7,10 +7,10 @@
 Hi there 👋
 
 I'm Annika and a passionate frontend developer. 
-I'm currently gaining my first work experience at [ecostage](https://about.stagedates.com/). <br>
+I'm currently gaining my first work experience at [ecostag GmbH](https://about.stagedates.com/). <br>
 In my free time, I love to let my creativity run wild and develop my own projects with a focus on design. 🤯
 
-- 💬 Ask me about everything you like 😛
+- 💬 Ask me about everything you like
 - 📫 How to reach me: annikafuhge96@gmail.com
 - ⚡ Fun fact: I'm a huge Harry Potter fan, so I got the nickname Annie Fudge.
 
@@ -63,20 +63,5 @@ In my free time, I love to let my creativity run wild and develop my own project
 ## ❤️ Hobbies
 - 💃 Dancing
 - 🧶 Crocheting
-- 🎸 Playing ukulele
-- 👩‍💻 Coding
 - 🍻 Meeting friends
-- 🚶‍️Walking
-
-## 📌 Pinned Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afuhge&repo=Cloudy&title_color=EA5E5E&bg_color=1A2B34&border_color=1A2B34&text_color=fff&icon_color=4AB097)](https://github.com/afuhge/Cloudy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afuhge&repo=TicTacToe&title_color=EA5E5E&bg_color=1A2B34&border_color=1A2B34&text_color=fff&icon_color=4AB097)](https://github.com/afuhge/TicTacToe)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afuhge&repo=Resume&title_color=EA5E5E&bg_color=1A2B34&border_color=1A2B34&text_color=fff&icon_color=4AB097)](https://github.com/afuhge/Resume)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=afuhge&repo=TODOApp2&title_color=EA5E5E&bg_color=1A2B34&border_color=1A2B34&text_color=fff&icon_color=4AB097)](https://github.com/afuhge/TODOApp2)
-## 📊 GitHub Stats
-[![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=afuhge&count_private=true&show_icons=true&title_color=EA5E5E&bg_color=1A2B34&border_color=1A2B34&icon_color=4AB097&text_color=fff)
-](https://github.com/afuhge/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afuhge&layout=compact&title_color=EA5E5E&bg_color=1A2B34&border_color=1A2B34&text_color=fff&icon_color=4AB097)](https://github.com/afuhge/github-readme-stats)
 
