@@ -7,7 +7,7 @@
 Hi there 👋
 
 I'm Annika and a passionate frontend developer. 
-I'm currently gaining my first work experience at [ecostag GmbH](https://about.stagedates.com/). <br>
+I'm currently working at [CompuGroup Medical SE & Co. KGaA](https://www.cgm.com/). <br>
 In my free time, I love to let my creativity run wild and develop my own projects with a focus on design. 🤯
 
 - 💬 Ask me about everything you like
